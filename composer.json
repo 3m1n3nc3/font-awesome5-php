@@ -1,0 +1,28 @@
+{
+    "name": "toneflix-code/fontawsome5-php",
+    "type": "library",
+    "description": "Allows you to use fontawsome 5 icons in your php project.",
+    "keywords": [
+        "toneflix",
+        "toneflix-code",
+        "fontawsome5",
+        "fontawsome5-php",
+        "icons"
+    ],
+    "homepage": "https://github.com/3m1n3nc3/fontawsome5-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toneflix Code",
+            "email": "toneflix.code@gmail.com",
+            "homepage": "https://code.toneflix.com.ng",
+            "role": "Owner"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ToneflixCode\\": "src/"
+        }
+    },
+    "require": {}
+}
